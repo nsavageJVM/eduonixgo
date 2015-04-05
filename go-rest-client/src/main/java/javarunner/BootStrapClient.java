@@ -8,7 +8,10 @@ import restclient.RestProperties;
 
 
 /**
+ * JAX-RS 2.0 Client API
+ *
  * Resteasy client extension interface GoRestClient
+ *
  *
  * https://docs.jboss.org/resteasy/docs/3.0-beta-3/userguide/html/RESTEasy_Client_Framework.html
  */

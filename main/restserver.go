@@ -44,5 +44,5 @@ func main() {
 
 	api := restserver.NewAPI()
 	api.AddResource(item, "/items")
-	api.Start(3000)
+	api.Start(8000)
 }
